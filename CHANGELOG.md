@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 `SwiftWebSocket` adheres to [Semantic Versioning](http://semver.org/).
 
+#### [2.8.0.1](https://github.com/danaris/SwiftWebSocket)
+
+- Fix: Updated to Swift 4.0, as 3.0 will not build on Mojave
+
 #### [2.6.1](https://github.com/tidwall/SwiftWebSocket/tree/2.6.1)
 
 - Fix: Sub-protocol now separate with a comma. #40
